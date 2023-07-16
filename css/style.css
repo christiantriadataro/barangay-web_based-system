@@ -1,0 +1,15 @@
+body {
+    background-color: var($ --bs-primary);
+    /*border: 1px solid white;*/
+
+}
+h3, p {
+    line-height: 200%;
+}
+p {
+    font-size: 14px;
+}
+/*.nav-link {*/
+/*    font-size: 20px;*/
+/*}*/
+
